@@ -1,0 +1,5 @@
+commit 52294cb8cf7bc43d412053232378d733e0800dfb (HEAD -> logs, origin/master, master)
+Author: Angelina <angelinajanceva@hotmail.com>
+Date:   Tue Apr 16 15:42:34 2019 +0200
+
+    Initial commit
